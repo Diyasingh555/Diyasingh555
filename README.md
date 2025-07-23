@@ -21,9 +21,9 @@
 ---
 
 ### 🛠️ Tech Stack:
-- **Languages:** Python, Java, SQL  
-- **Tools:** Tableau, Scikit-Learn, Pandas, NumPy, Jupyter 
-- **Concepts:** Data Preprocessing, EDA, Regression, Classification, Clustering  
+- **Languages:** Python, C, C++, SQL, 
+- **Tools:** google colab, Scikit-Learn, Pandas, NumPy, Jupyter 
+- **Concepts:** Data Preprocessing, EDA, Regression, Classification  
 
 ---
 
